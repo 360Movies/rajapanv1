@@ -4,13 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = """<b>Hey {} മച്ചാനെ ഗ്രൂപ്പിൽ തരുന്ന ലിങ്ക് വഴിയേ മൂവി കിട്ടു അഹ് ലിങ്ക് വഴി കയറി സ്റ്റാർട്ട്!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Bot 360 മൂവീസ് മാത്രേ പ്രവർത്തിക്കത്തൊള്ളൂ 🔥🔥😝
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@movie360group
 </i>"""    
     
     HELP_TEXT = """
